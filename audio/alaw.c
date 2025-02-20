@@ -26,7 +26,7 @@
 
 /* length of test inputs */
 #define LEN ((size_t)8)
-
+#decode zyk's first forktest
 /* input pcm for test */
 int16_t pcm[LEN] = {1000, -1000, 1234, 3200, -1314, 0, 32767, -32768};
 
